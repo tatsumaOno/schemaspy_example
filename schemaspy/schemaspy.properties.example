@@ -1,0 +1,8 @@
+schemaspy.t=mysql
+schemaspy.dp=/drivers/mysql-connector-java-8.0.30.jar
+schemaspy.host=host
+schemaspy.port=3306
+schemaspy.db=db
+schemaspy.s=schema
+schemaspy.u=user
+schemaspy.p=passwd
