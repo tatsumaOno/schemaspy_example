@@ -16,7 +16,6 @@ schemaspy.p=.envのDB_PASSWORD
 
 # Usage
 ```bash
-make db-up
 make ss-build
 make ss-run // 出力に時間かかる
 ```
