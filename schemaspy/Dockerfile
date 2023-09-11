@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 schemaspy/schemaspy:6.1.0
+FROM --platform=linux/amd64 schemaspy/schemaspy:6.2.4
 
 ENV TZ=Asia/Tokyo
 

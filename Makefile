@@ -4,4 +4,4 @@ ss-build:
 
 # --rm 自動削除
 ss-run:
-	docker-compose run --rm schemaspy
+	docker-compose run --rm schemaspy -renderer :cairo
